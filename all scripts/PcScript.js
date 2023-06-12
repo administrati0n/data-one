@@ -2,7 +2,7 @@
 const lib = document.createElement("script");
 lib.src = "https://administrati0n.github.io/data-one/all scripts/lib.js";
 document.head.appendChild(lib);
-
+ 
 // Fonts
 const fonts = document.createElement("script");
 fonts.src = "https://administrati0n.github.io/data-one/all scripts/fonts.js";
