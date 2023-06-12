@@ -14,7 +14,7 @@ Stuff1.src = "https://administrati0n.github.io/data-one/all scripts/Stuff1.js";
 document.body.appendChild(Stuff1);
 
 // iconLinks2
-const iconLinks = document.createElement("script");
+const iconLinks2 = document.createElement("script");
 iconLinks2.src = "https://administrati0n.github.io/data-one/all scripts/Content/iconLinks2.js";
 document.head.appendChild(iconLinks2);
 
